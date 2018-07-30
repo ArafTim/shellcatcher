@@ -43,7 +43,8 @@ print "shellcatcher> Searching shehll...\n\n\n";
 
 if($code eq "2"){
 
-@path1=("/WSO.php",
+@path1=("/s-hell.php",
+"/WSO.php",
 "/dz.php",
 "/w.php",
 "/wp-content/plugins/akismet/akismet.php",
